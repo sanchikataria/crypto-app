@@ -2,12 +2,13 @@
 
 ![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
+ Developed a Crypto web application with State Management using Redux Toolkit, UI Creation using Ant Design,
+creating charts using Chart.js,
 
-In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
+fetching data from multiple sources using RapidAPI and React as the frontend
 
-By the end of this video, you will become the master of working with APIs.
+• Visualized data to show the real-time prices, and market trends, daily changes.
+
+• Top 100 cryptocurrencies, filter by search, insights: in-depth data and trends and latest news.
